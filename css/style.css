@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+}.container{
+    background-color:rgb(235 232 227);
+    height: auto;
+    width: auto;
+    margin: 20px 8px 0px 8px;
+    margin-bottom: 0px;
+    padding: 1px;
+    padding-bottom: 35px;
+    
+}
+.main_body{
+    background-color:white;
+    width: 891px;
+    height: auto;
+    margin: auto;
+    margin-top: 61px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+.header{
+    margin: 5px 5px;
+    padding-top: 10px;
+}
+.header h1{
+    text-align: center;
+   
+}
+legend{
+    font-weight: bold;
+}
+label,p{
+    color: gray;
+}
+strong{
+    color: black;
+}
+.submsn_btn{
+ text-align: center;
+ margin-bottom: 10px;
+}
+.btn{
+    background-color: red;
+    color:white;
+    padding: 10px 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 20px;
+  
+  
+
+}
+input[type="checkbox"]{
+    background: blue;
+}
+fieldset { 
+    border:1px solid lightgray;
+    margin: 10px;
